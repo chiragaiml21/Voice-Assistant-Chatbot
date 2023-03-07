@@ -13,7 +13,7 @@ def chatbot():
     # get user input from the form data
     user_input = request.form['user_input']
 
-    # TODO: add chatbot logic to generate response
+    # TODO: Add chatbot logic to generate response
     chatbot_response = "Hello, I'm a chatbot!"
 
     # return response in JSON format
